@@ -1,0 +1,82 @@
+body {
+  background-color: #FFF7FA;
+}
+header {
+  font-family: 'Lora', serif;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  background-color: #CC6E58;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: -8px -8px 10px -8px;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+form button {
+  display: flex;
+justify-content: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 130%;
+  color: darkslategrey;
+  background-color: #CC9387;
+  border-radius: 10px;
+  margin: 5px 5px;
+
+}
+
+.rockon {
+  width: 25px;
+  height: 25px;
+}
+.Chuck {
+
+  padding: 10px 10px;
+  background-color: #52CC83;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px 10px;
+}
+.Dad {
+
+  padding: 10px 10px;
+  background-color: #52CC83;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ margin: 10px 10px;
+}
+.IQ {
+
+  padding: 10px 10px;
+  background-color: #52CC83;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px 10px;
+}
+
+.chuckpic {
+  width: 300px;
+}
+
+.dadpic {
+  width: 300px;
+}
+
+.lamppic {
+  width: 300px;
+}
+
+.jokeOutputCN, .jokeOutputIQ, .jokeOutputDJ {
+  word-wrap: break-word;
+  width: 300px;
+  font-family: 'Slabo 27px', serif;
+  color: darkslategrey;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: 'Lora', serif;
+  color: darkslategrey;
+}
